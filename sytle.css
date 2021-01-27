@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table, tr, td, th{
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 18px;
+    position: relative;
+}
+#table{
+    border-collapse: collapse;
+    padding: 10px;
+}
+.n2{
+    background-color: #B0C4DE;
+}
+caption{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+}
+.n{
+    background-color: #F8F9FA;
+}
+#background{
+    background-color: gray;
+    width: 600px;
+    height: 320px;
+    position: absolute;
+    margin-left: 40px;
+    border-radius: 30px;
+    
+}
